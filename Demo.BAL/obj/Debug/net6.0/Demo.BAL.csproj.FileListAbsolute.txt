@@ -1,0 +1,45 @@
+E:\New folder (2)\Microservice\Demo\Demo.BAL\bin\Debug\net6.0\Demo.BAL.deps.json
+E:\New folder (2)\Microservice\Demo\Demo.BAL\bin\Debug\net6.0\Demo.BAL.dll
+E:\New folder (2)\Microservice\Demo\Demo.BAL\bin\Debug\net6.0\Demo.BAL.pdb
+E:\New folder (2)\Microservice\Demo\Demo.BAL\obj\Debug\net6.0\Demo.BAL.csproj.AssemblyReference.cache
+E:\New folder (2)\Microservice\Demo\Demo.BAL\obj\Debug\net6.0\Demo.BAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder (2)\Microservice\Demo\Demo.BAL\obj\Debug\net6.0\Demo.BAL.AssemblyInfoInputs.cache
+E:\New folder (2)\Microservice\Demo\Demo.BAL\obj\Debug\net6.0\Demo.BAL.AssemblyInfo.cs
+E:\New folder (2)\Microservice\Demo\Demo.BAL\obj\Debug\net6.0\Demo.BAL.csproj.CoreCompileInputs.cache
+E:\New folder (2)\Microservice\Demo\Demo.BAL\obj\Debug\net6.0\Demo.BAL.dll
+E:\New folder (2)\Microservice\Demo\Demo.BAL\obj\Debug\net6.0\refint\Demo.BAL.dll
+E:\New folder (2)\Microservice\Demo\Demo.BAL\obj\Debug\net6.0\Demo.BAL.pdb
+E:\New folder (2)\Microservice\Demo\Demo.BAL\obj\Debug\net6.0\ref\Demo.BAL.dll
+E:\New folder (2)\Microservice\Demo\Demo.BAL\bin\Debug\net6.0\Demo.DAL.dll
+E:\New folder (2)\Microservice\Demo\Demo.BAL\bin\Debug\net6.0\Demo.DAL.pdb
+E:\New folder (2)\Microservice\Demo\Demo.BAL\obj\Debug\net6.0\Demo.BAL.csproj.CopyComplete
+D:\DemoDurgesh\Demo\Demo.BAL\bin\Debug\net6.0\Demo.BAL.deps.json
+D:\DemoDurgesh\Demo\Demo.BAL\bin\Debug\net6.0\Demo.BAL.dll
+D:\DemoDurgesh\Demo\Demo.BAL\bin\Debug\net6.0\Demo.BAL.pdb
+D:\DemoDurgesh\Demo\Demo.BAL\bin\Debug\net6.0\Demo.DAL.dll
+D:\DemoDurgesh\Demo\Demo.BAL\bin\Debug\net6.0\Demo.DAL.pdb
+D:\DemoDurgesh\Demo\Demo.BAL\obj\Debug\net6.0\Demo.BAL.csproj.AssemblyReference.cache
+D:\DemoDurgesh\Demo\Demo.BAL\obj\Debug\net6.0\Demo.BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DemoDurgesh\Demo\Demo.BAL\obj\Debug\net6.0\Demo.BAL.AssemblyInfoInputs.cache
+D:\DemoDurgesh\Demo\Demo.BAL\obj\Debug\net6.0\Demo.BAL.AssemblyInfo.cs
+D:\DemoDurgesh\Demo\Demo.BAL\obj\Debug\net6.0\Demo.BAL.csproj.CoreCompileInputs.cache
+D:\DemoDurgesh\Demo\Demo.BAL\obj\Debug\net6.0\Demo.BAL.csproj.CopyComplete
+D:\DemoDurgesh\Demo\Demo.BAL\obj\Debug\net6.0\Demo.BAL.dll
+D:\DemoDurgesh\Demo\Demo.BAL\obj\Debug\net6.0\refint\Demo.BAL.dll
+D:\DemoDurgesh\Demo\Demo.BAL\obj\Debug\net6.0\Demo.BAL.pdb
+D:\DemoDurgesh\Demo\Demo.BAL\obj\Debug\net6.0\ref\Demo.BAL.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.BAL\bin\Debug\net6.0\Demo.BAL.deps.json
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.BAL\bin\Debug\net6.0\Demo.BAL.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.BAL\bin\Debug\net6.0\Demo.BAL.pdb
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.BAL\bin\Debug\net6.0\Demo.DAL.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.BAL\bin\Debug\net6.0\Demo.DAL.pdb
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.BAL\obj\Debug\net6.0\Demo.BAL.csproj.AssemblyReference.cache
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.BAL\obj\Debug\net6.0\Demo.BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.BAL\obj\Debug\net6.0\Demo.BAL.AssemblyInfoInputs.cache
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.BAL\obj\Debug\net6.0\Demo.BAL.AssemblyInfo.cs
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.BAL\obj\Debug\net6.0\Demo.BAL.csproj.CoreCompileInputs.cache
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.BAL\obj\Debug\net6.0\Demo.BAL.csproj.CopyComplete
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.BAL\obj\Debug\net6.0\Demo.BAL.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.BAL\obj\Debug\net6.0\refint\Demo.BAL.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.BAL\obj\Debug\net6.0\Demo.BAL.pdb
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.BAL\obj\Debug\net6.0\ref\Demo.BAL.dll

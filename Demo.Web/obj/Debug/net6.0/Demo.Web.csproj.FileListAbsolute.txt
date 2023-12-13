@@ -1,0 +1,1047 @@
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\appsettings.Development.json
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\appsettings.json
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\Demo.Web.staticwebassets.runtime.json
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\Demo.Web.exe
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\Demo.Web.deps.json
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\Demo.Web.runtimeconfig.json
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\Demo.Web.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\Demo.Web.pdb
+E:\New folder (2)\Microservice\Demo\Demo.Web\obj\Debug\net6.0\Demo.Web.csproj.AssemblyReference.cache
+E:\New folder (2)\Microservice\Demo\Demo.Web\obj\Debug\net6.0\Demo.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder (2)\Microservice\Demo\Demo.Web\obj\Debug\net6.0\Demo.Web.AssemblyInfoInputs.cache
+E:\New folder (2)\Microservice\Demo\Demo.Web\obj\Debug\net6.0\Demo.Web.AssemblyInfo.cs
+E:\New folder (2)\Microservice\Demo\Demo.Web\obj\Debug\net6.0\Demo.Web.csproj.CoreCompileInputs.cache
+E:\New folder (2)\Microservice\Demo\Demo.Web\obj\Debug\net6.0\Demo.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\New folder (2)\Microservice\Demo\Demo.Web\obj\Debug\net6.0\Demo.Web.RazorAssemblyInfo.cache
+E:\New folder (2)\Microservice\Demo\Demo.Web\obj\Debug\net6.0\Demo.Web.RazorAssemblyInfo.cs
+E:\New folder (2)\Microservice\Demo\Demo.Web\obj\Debug\net6.0\staticwebassets.build.json
+E:\New folder (2)\Microservice\Demo\Demo.Web\obj\Debug\net6.0\staticwebassets.development.json
+E:\New folder (2)\Microservice\Demo\Demo.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\New folder (2)\Microservice\Demo\Demo.Web\obj\Debug\net6.0\scopedcss\bundle\Demo.Web.styles.css
+E:\New folder (2)\Microservice\Demo\Demo.Web\obj\Debug\net6.0\scopedcss\projectbundle\Demo.Web.bundle.scp.css
+E:\New folder (2)\Microservice\Demo\Demo.Web\obj\Debug\net6.0\Demo.Web.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\obj\Debug\net6.0\refint\Demo.Web.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\obj\Debug\net6.0\Demo.Web.pdb
+E:\New folder (2)\Microservice\Demo\Demo.Web\obj\Debug\net6.0\Demo.Web.genruntimeconfig.cache
+E:\New folder (2)\Microservice\Demo\Demo.Web\obj\Debug\net6.0\ref\Demo.Web.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\mscorlib.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\netstandard.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.AppContext.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Buffers.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Collections.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.ComponentModel.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Configuration.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Console.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Core.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Data.Common.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Data.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Drawing.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Globalization.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.IO.Compression.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.IO.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Linq.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Memory.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Net.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Net.Http.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Net.Mail.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Net.Ping.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Net.Requests.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Net.Security.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Numerics.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.ObjectModel.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Reflection.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Runtime.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Security.Claims.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Security.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Security.Principal.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Text.Json.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Threading.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Transactions.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.ValueTuple.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Web.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Windows.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Xml.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\refs\WindowsBase.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (2)\Microservice\Demo\Demo.Web\obj\Debug\net6.0\Demo.Web.MvcApplicationPartsAssemblyInfo.cs
+E:\New folder (2)\Microservice\Demo\Demo.Web\obj\Debug\net6.0\Demo.Web.csproj.CopyComplete
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\appsettings.Development.json
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\appsettings.json
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\Demo.Web.staticwebassets.runtime.json
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\Demo.Web.exe
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\Demo.Web.deps.json
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\Demo.Web.runtimeconfig.json
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\Demo.Web.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\Demo.Web.pdb
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\mscorlib.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\netstandard.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.AppContext.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Buffers.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Collections.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.ComponentModel.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Configuration.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Console.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Core.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Data.Common.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Data.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Drawing.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Globalization.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.IO.Compression.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.IO.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Linq.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Memory.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Net.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Net.Http.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Net.Mail.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Net.Ping.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Net.Requests.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Net.Security.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Numerics.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.ObjectModel.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Reflection.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Runtime.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Security.Claims.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Security.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Security.Principal.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Text.Json.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Threading.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Transactions.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.ValueTuple.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Web.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Windows.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Xml.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\refs\WindowsBase.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DemoDurgesh\Demo\Demo.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DemoDurgesh\Demo\Demo.Web\obj\Debug\net6.0\Demo.Web.csproj.AssemblyReference.cache
+D:\DemoDurgesh\Demo\Demo.Web\obj\Debug\net6.0\Demo.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\DemoDurgesh\Demo\Demo.Web\obj\Debug\net6.0\Demo.Web.AssemblyInfoInputs.cache
+D:\DemoDurgesh\Demo\Demo.Web\obj\Debug\net6.0\Demo.Web.AssemblyInfo.cs
+D:\DemoDurgesh\Demo\Demo.Web\obj\Debug\net6.0\Demo.Web.csproj.CoreCompileInputs.cache
+D:\DemoDurgesh\Demo\Demo.Web\obj\Debug\net6.0\Demo.Web.MvcApplicationPartsAssemblyInfo.cs
+D:\DemoDurgesh\Demo\Demo.Web\obj\Debug\net6.0\Demo.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\DemoDurgesh\Demo\Demo.Web\obj\Debug\net6.0\Demo.Web.RazorAssemblyInfo.cache
+D:\DemoDurgesh\Demo\Demo.Web\obj\Debug\net6.0\Demo.Web.RazorAssemblyInfo.cs
+D:\DemoDurgesh\Demo\Demo.Web\obj\Debug\net6.0\staticwebassets.build.json
+D:\DemoDurgesh\Demo\Demo.Web\obj\Debug\net6.0\staticwebassets.development.json
+D:\DemoDurgesh\Demo\Demo.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\DemoDurgesh\Demo\Demo.Web\obj\Debug\net6.0\scopedcss\bundle\Demo.Web.styles.css
+D:\DemoDurgesh\Demo\Demo.Web\obj\Debug\net6.0\scopedcss\projectbundle\Demo.Web.bundle.scp.css
+D:\DemoDurgesh\Demo\Demo.Web\obj\Debug\net6.0\Demo.Web.csproj.CopyComplete
+D:\DemoDurgesh\Demo\Demo.Web\obj\Debug\net6.0\Demo.Web.dll
+D:\DemoDurgesh\Demo\Demo.Web\obj\Debug\net6.0\refint\Demo.Web.dll
+D:\DemoDurgesh\Demo\Demo.Web\obj\Debug\net6.0\Demo.Web.pdb
+D:\DemoDurgesh\Demo\Demo.Web\obj\Debug\net6.0\Demo.Web.genruntimeconfig.cache
+D:\DemoDurgesh\Demo\Demo.Web\obj\Debug\net6.0\ref\Demo.Web.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\appsettings.Development.json
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\appsettings.json
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\Demo.Web.staticwebassets.runtime.json
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\Demo.Web.exe
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\Demo.Web.deps.json
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\Demo.Web.runtimeconfig.json
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\Demo.Web.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\Demo.Web.pdb
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\mscorlib.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\netstandard.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.AppContext.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Buffers.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Collections.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.ComponentModel.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Configuration.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Console.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Core.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Data.Common.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Data.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Drawing.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Globalization.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.IO.Compression.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.IO.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Linq.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Memory.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Net.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Net.Http.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Net.Mail.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Net.Ping.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Net.Requests.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Net.Security.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Numerics.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.ObjectModel.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Reflection.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Runtime.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Security.Claims.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Security.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Security.Principal.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Text.Json.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Threading.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Transactions.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.ValueTuple.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Web.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Windows.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Xml.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\refs\WindowsBase.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\obj\Debug\net6.0\Demo.Web.csproj.AssemblyReference.cache
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\obj\Debug\net6.0\Demo.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\obj\Debug\net6.0\Demo.Web.AssemblyInfoInputs.cache
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\obj\Debug\net6.0\Demo.Web.AssemblyInfo.cs
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\obj\Debug\net6.0\Demo.Web.csproj.CoreCompileInputs.cache
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\obj\Debug\net6.0\Demo.Web.MvcApplicationPartsAssemblyInfo.cs
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\obj\Debug\net6.0\Demo.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\obj\Debug\net6.0\Demo.Web.RazorAssemblyInfo.cache
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\obj\Debug\net6.0\Demo.Web.RazorAssemblyInfo.cs
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\obj\Debug\net6.0\staticwebassets.build.json
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\obj\Debug\net6.0\staticwebassets.development.json
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\obj\Debug\net6.0\scopedcss\bundle\Demo.Web.styles.css
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\obj\Debug\net6.0\scopedcss\projectbundle\Demo.Web.bundle.scp.css
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\obj\Debug\net6.0\Demo.Web.csproj.CopyComplete
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\obj\Debug\net6.0\Demo.Web.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\obj\Debug\net6.0\refint\Demo.Web.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\obj\Debug\net6.0\Demo.Web.pdb
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\obj\Debug\net6.0\Demo.Web.genruntimeconfig.cache
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.Web\obj\Debug\net6.0\ref\Demo.Web.dll

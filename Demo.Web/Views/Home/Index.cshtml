@@ -1,0 +1,23 @@
+﻿@{
+    var viewbag = ViewBag.msg1;
+    //ViewData["Title"] = "Home Page";
+    var viewdata = ViewData["msg"];
+    var tempdata = TempData["msg"];
+    var c = TempData["msg"];
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <h1>
+        @viewbag
+    </h1>
+    <h1>
+        @viewdata
+    </h1>
+    <h1>
+        @tempdata
+        @c
+        @c
+    </h1>
+</div>

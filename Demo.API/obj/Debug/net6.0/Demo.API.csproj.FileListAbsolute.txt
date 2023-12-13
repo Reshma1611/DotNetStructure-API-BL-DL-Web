@@ -1,0 +1,207 @@
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\appsettings.Development.json
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\appsettings.json
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\Demo.API.exe
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\Demo.API.deps.json
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\Demo.API.runtimeconfig.json
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\Demo.API.dll
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\Demo.API.pdb
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\Humanizer.dll
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\Demo.DAL.dll
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\Demo.DAL.pdb
+E:\New folder (2)\Microservice\Demo\Demo.API\obj\Debug\net6.0\Demo.API.csproj.AssemblyReference.cache
+E:\New folder (2)\Microservice\Demo\Demo.API\obj\Debug\net6.0\Demo.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder (2)\Microservice\Demo\Demo.API\obj\Debug\net6.0\Demo.API.AssemblyInfoInputs.cache
+E:\New folder (2)\Microservice\Demo\Demo.API\obj\Debug\net6.0\Demo.API.AssemblyInfo.cs
+E:\New folder (2)\Microservice\Demo\Demo.API\obj\Debug\net6.0\Demo.API.csproj.CoreCompileInputs.cache
+E:\New folder (2)\Microservice\Demo\Demo.API\obj\Debug\net6.0\Demo.API.MvcApplicationPartsAssemblyInfo.cs
+E:\New folder (2)\Microservice\Demo\Demo.API\obj\Debug\net6.0\Demo.API.MvcApplicationPartsAssemblyInfo.cache
+E:\New folder (2)\Microservice\Demo\Demo.API\obj\Debug\net6.0\staticwebassets.build.json
+E:\New folder (2)\Microservice\Demo\Demo.API\obj\Debug\net6.0\staticwebassets.development.json
+E:\New folder (2)\Microservice\Demo\Demo.API\obj\Debug\net6.0\scopedcss\bundle\Demo.API.styles.css
+E:\New folder (2)\Microservice\Demo\Demo.API\obj\Debug\net6.0\Demo.API.csproj.CopyComplete
+E:\New folder (2)\Microservice\Demo\Demo.API\obj\Debug\net6.0\Demo.API.dll
+E:\New folder (2)\Microservice\Demo\Demo.API\obj\Debug\net6.0\refint\Demo.API.dll
+E:\New folder (2)\Microservice\Demo\Demo.API\obj\Debug\net6.0\Demo.API.pdb
+E:\New folder (2)\Microservice\Demo\Demo.API\obj\Debug\net6.0\Demo.API.genruntimeconfig.cache
+E:\New folder (2)\Microservice\Demo\Demo.API\obj\Debug\net6.0\ref\Demo.API.dll
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\AutoMapper.dll
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\Demo.BAL.dll
+E:\New folder (2)\Microservice\Demo\Demo.API\bin\Debug\net6.0\Demo.BAL.pdb
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\appsettings.Development.json
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\appsettings.json
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\Demo.API.exe
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\Demo.API.deps.json
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\Demo.API.runtimeconfig.json
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\Demo.API.dll
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\Demo.API.pdb
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\AutoMapper.dll
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\Humanizer.dll
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\Demo.BAL.dll
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\Demo.DAL.dll
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\Demo.BAL.pdb
+D:\DemoDurgesh\Demo\Demo.API\bin\Debug\net6.0\Demo.DAL.pdb
+D:\DemoDurgesh\Demo\Demo.API\obj\Debug\net6.0\Demo.API.csproj.AssemblyReference.cache
+D:\DemoDurgesh\Demo\Demo.API\obj\Debug\net6.0\Demo.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\DemoDurgesh\Demo\Demo.API\obj\Debug\net6.0\Demo.API.AssemblyInfoInputs.cache
+D:\DemoDurgesh\Demo\Demo.API\obj\Debug\net6.0\Demo.API.AssemblyInfo.cs
+D:\DemoDurgesh\Demo\Demo.API\obj\Debug\net6.0\Demo.API.csproj.CoreCompileInputs.cache
+D:\DemoDurgesh\Demo\Demo.API\obj\Debug\net6.0\Demo.API.MvcApplicationPartsAssemblyInfo.cs
+D:\DemoDurgesh\Demo\Demo.API\obj\Debug\net6.0\Demo.API.MvcApplicationPartsAssemblyInfo.cache
+D:\DemoDurgesh\Demo\Demo.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\DemoDurgesh\Demo\Demo.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\DemoDurgesh\Demo\Demo.API\obj\Debug\net6.0\scopedcss\bundle\Demo.API.styles.css
+D:\DemoDurgesh\Demo\Demo.API\obj\Debug\net6.0\Demo.API.csproj.CopyComplete
+D:\DemoDurgesh\Demo\Demo.API\obj\Debug\net6.0\Demo.API.dll
+D:\DemoDurgesh\Demo\Demo.API\obj\Debug\net6.0\refint\Demo.API.dll
+D:\DemoDurgesh\Demo\Demo.API\obj\Debug\net6.0\Demo.API.pdb
+D:\DemoDurgesh\Demo\Demo.API\obj\Debug\net6.0\Demo.API.genruntimeconfig.cache
+D:\DemoDurgesh\Demo\Demo.API\obj\Debug\net6.0\ref\Demo.API.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\appsettings.Development.json
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\appsettings.json
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\Demo.API.exe
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\Demo.API.deps.json
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\Demo.API.runtimeconfig.json
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\Demo.API.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\Demo.API.pdb
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\AutoMapper.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\Humanizer.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\Demo.BAL.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\Demo.DAL.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\Demo.BAL.pdb
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\bin\Debug\net6.0\Demo.DAL.pdb
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\obj\Debug\net6.0\Demo.API.csproj.AssemblyReference.cache
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\obj\Debug\net6.0\Demo.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\obj\Debug\net6.0\Demo.API.AssemblyInfoInputs.cache
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\obj\Debug\net6.0\Demo.API.AssemblyInfo.cs
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\obj\Debug\net6.0\Demo.API.csproj.CoreCompileInputs.cache
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\obj\Debug\net6.0\Demo.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\obj\Debug\net6.0\Demo.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\obj\Debug\net6.0\scopedcss\bundle\Demo.API.styles.css
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\obj\Debug\net6.0\Demo.API.csproj.CopyComplete
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\obj\Debug\net6.0\Demo.API.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\obj\Debug\net6.0\refint\Demo.API.dll
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\obj\Debug\net6.0\Demo.API.pdb
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\obj\Debug\net6.0\Demo.API.genruntimeconfig.cache
+D:\Uploaded on GitHub\DotNetStructure-API-BL-DL-Web\DotNetStructure-API-BL-DL-Web\Demo.API\obj\Debug\net6.0\ref\Demo.API.dll
